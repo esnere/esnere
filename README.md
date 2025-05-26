@@ -28,7 +28,6 @@
 ---
 
 ### 📊 GitHub Stats (kinda quiet, but I show up)
-![esnere's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stress-In-Coding&show_icons=true&theme=radical&hide_rank=true)
 
 ---
 
